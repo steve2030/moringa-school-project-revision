@@ -41,6 +41,7 @@
     font-size: medium;
     border-radius: 20px;
     padding: 10px;
+    max-height: fit-content;
   }
   
   .content{
@@ -67,4 +68,7 @@
     color: rgb(209, 192, 192);
   }
   
-  
+  #div{
+
+    max-height:fit-content;
+  }
